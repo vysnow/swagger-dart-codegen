@@ -7,9 +7,6 @@ environment:
   sdk: ">=2.16.0 <3.0.0"
 
 dependencies:
-  chopper: ^5.0.0
-
-dependencies:
   chopper: ^6.1.1
 
 dev_dependencies:
